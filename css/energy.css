@@ -297,6 +297,7 @@ header ul li a {
         background: #fff;
         z-index: 10;
         transition: 0.5s;
+        border-radius: 25px;
     }
     header ul li {
         width: 300px;
